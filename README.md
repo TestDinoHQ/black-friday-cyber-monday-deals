@@ -101,6 +101,7 @@ We'd greatly appreciate if you could:
 | [SkyImage](https://skymage.daudau.cc/) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | **BlACKFRIDAY** - 50% off | - |
 | [HTTP Toolkit](https://httptoolkit.com/?ref=greatfrontend) | Open-source HTTP debugger & client, with instant one-click setup for browsers, Android, node.js & more | **BLACKFRIDAY25** - 50% off forever on annual subscriptions | Ends Dec 3 |
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | a Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% off lifetime plan | Ends Dec 5 |
+| [TestDino](https://testdino.com/) | Smart PLaywright Reporting and Analytics Platform | 40% off on Annual plans| Ends Dec 1 |
 
 ## 📚 Books & Courses
 
